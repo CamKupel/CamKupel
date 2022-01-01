@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CamWowzers
+- 👋 Hi, I’m @CamKupel
 - 👀 I’m interested in - Writing code, downhill skateboarding, PC/Cell Phone Tech., and video games!
 - 🌱 I’m currently learning C++ - I am familiar with languages like Python and Java, but haven't touched them in sometime.
 - 💞️ I’m looking to collaborate on anything that seems interesting!
